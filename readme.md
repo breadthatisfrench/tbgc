@@ -1,8 +1,8 @@
-## tbgc
+# tbgc
 
 Used to generate graphs for sprints and backlog
 
-# Usage Instructions
+## Usage Instructions
 
 ```
 ---Help and Program Info---
